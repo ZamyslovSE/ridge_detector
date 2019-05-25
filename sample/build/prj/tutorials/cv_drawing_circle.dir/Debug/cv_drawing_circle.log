@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (cv_drawing_circle.dir\Debug\) contains files shared from another project (cv_drawing_circle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Building Custom Rule C:/Users/zamys/Desktop/polevoy/sample/prj/tutorials/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/zamys/Desktop/polevoy/sample/build/prj/tutorials/CMakeFiles/generate.stamp is up-to-date.
+  cv_drawing_circle.cpp
+  cv_drawing_circle.vcxproj -> C:\Users\zamys\Desktop\polevoy\sample\bin.win64.vc2015.dbg\cv_drawing_circle.exe
+  cv_drawing_circle.vcxproj -> C:/Users/zamys/Desktop/polevoy/sample/bin.win64.vc2015.dbg/cv_drawing_circle.pdb (Full PDB)

@@ -1,0 +1,28 @@
+﻿  MeanShift.cpp
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(116): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(117): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(118): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(149): warning C4244: 'argument': conversion from 'float' to 'uchar', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(175): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(178): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(189): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(198): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(204): warning C4244: 'argument': conversion from 'float' to 'uchar', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(234): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(251): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(252): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(255): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(289): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zamys\Desktop\polevoy\sample\prj\idz\MeanShift.cpp(292): warning C4244: 'argument': conversion from 'float' to 'uchar', possible loss of data
+  Maincpp.cpp
+  findContours_demo.cpp
+  Generating Code...
+  idz.vcxproj -> C:\Users\zamys\Desktop\polevoy\sample\bin.win64.vc2015.dbg\idz.exe
+  idz.vcxproj -> C:/Users/zamys/Desktop/polevoy/sample/bin.win64.vc2015.dbg/idz.pdb (Full PDB)

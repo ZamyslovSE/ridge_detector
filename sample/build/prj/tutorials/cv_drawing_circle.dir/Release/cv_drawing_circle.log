@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/julno/Desktop/sample/prj/tutorials/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/julno/Desktop/sample/build/prj/tutorials/CMakeFiles/generate.stamp is up-to-date.
+  cv_drawing_circle.cpp
+  cv_drawing_circle.vcxproj -> C:\Users\julno\Desktop\sample\bin.win64.vc2015.rel\cv_drawing_circle.exe

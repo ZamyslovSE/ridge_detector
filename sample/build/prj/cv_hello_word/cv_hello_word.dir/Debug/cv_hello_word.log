@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\zamys\Desktop\polevoy\sample\bin.win64.vc2015.dbg\cv_hello_word.exe : fatal error LNK1120: 1 unresolved externals

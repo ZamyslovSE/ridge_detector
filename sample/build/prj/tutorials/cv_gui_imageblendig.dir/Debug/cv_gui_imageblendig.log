@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (cv_gui_imageblendig.dir\Debug\) contains files shared from another project (cv_gui_imageblendig.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Building Custom Rule C:/Users/zamys/Desktop/polevoy/sample/prj/tutorials/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/zamys/Desktop/polevoy/sample/build/prj/tutorials/CMakeFiles/generate.stamp is up-to-date.
+  cv_gui_imageblendig.cpp
+  cv_gui_imageblendig.vcxproj -> C:\Users\zamys\Desktop\polevoy\sample\bin.win64.vc2015.dbg\cv_gui_imageblendig.exe
+  cv_gui_imageblendig.vcxproj -> C:/Users/zamys/Desktop/polevoy/sample/bin.win64.vc2015.dbg/cv_gui_imageblendig.pdb (Full PDB)

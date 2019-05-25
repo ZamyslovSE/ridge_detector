@@ -1,0 +1,4 @@
+C:/Users/zamys/Desktop/idz/sample/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/zamys/Desktop/idz/sample/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/zamys/Desktop/idz/sample/build/prj/zams_idz/CMakeFiles/zams_idz.dir
+C:/Users/zamys/Desktop/idz/sample/build/prj/zams_idz/CMakeFiles/ALL_BUILD.dir

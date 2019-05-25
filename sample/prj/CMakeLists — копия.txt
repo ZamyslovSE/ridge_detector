@@ -1,0 +1,4 @@
+add_subdirectory(tutorials)
+add_subdirectory(cv_hello_word)
+add_subdirectory(idz)
+add_subdirectory(zams_idz)

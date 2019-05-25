@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/zamys/Desktop/idz/sample/prj/zams_idz/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/zamys/Desktop/idz/sample/build/prj/zams_idz/CMakeFiles/generate.stamp is up-to-date.
+  zams_idz.cpp
+  zams_idz.vcxproj -> C:\Users\zamys\Desktop\idz\sample\bin.win64.vc2015.dbg\zams_idz.exe
+  zams_idz.vcxproj -> C:/Users/zamys/Desktop/idz/sample/bin.win64.vc2015.dbg/zams_idz.pdb (Full PDB)
